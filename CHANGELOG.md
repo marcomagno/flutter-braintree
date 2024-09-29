@@ -1,3 +1,8 @@
+## 4.0.0-dev.3
+
+- iOS minimum deployment target is now 13.0
+- Update Braintree iOS SDK to version 5.23.0
+
 ## 4.0.0-dev.1
 
 Credits go to [nicolobozzato](https://github.com/nicolobozzato) once again:
