@@ -92,7 +92,7 @@ Add the wallet enabled meta-data tag to your `AndroidManifest.xml` (inside the `
 You may need to add or uncomment the following line at the top of your `ios/Podfile`:
 
 ```ruby
-platform :ios, '12.0'
+platform :ios, '13.0'
 ```
 
 **Warning:** Device data collection is not yet supported for iOS.
